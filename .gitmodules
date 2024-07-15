@@ -1,0 +1,9 @@
+[submodule "PS-1-MERN"]
+	path = PS-1-MERN
+	url = https://github.com/SyedFahad11/CareerGuru-Job-portal.git
+[submodule "PS-2-ML"]
+	path = PS-2-ML
+	url = https://github.com/SyedFahad11/Brain-Tumour-Detection-using-ML.git
+[submodule "PS-3-GIS"]
+	path = PS-3-GIS
+	url = https://github.com/SyedFahad11/CropInsure-Satellite-based-crop-damage-estimation.git
